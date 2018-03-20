@@ -21,3 +21,7 @@ https://www.saikr.com/32943<br>
 #### 5. 拍拍贷风控算法大赛（队伍数量:485）<br>
 ##### 排名: 决赛:2 <br>
 https://www.kesci.com/apps/home/competition/56cd5f02b89b5bd026cb39c9
+
+#### 6. KDDCUP 2017 高速公路通达时间预测（队伍数量:3582）<br>
+##### 排名: 决赛:6 <br>
+https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.4895d780Hnb458&raceId=231597
