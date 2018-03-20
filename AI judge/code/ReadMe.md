@@ -48,7 +48,7 @@
 -----final.fawen.tsv 融合后法文中间结果<br>
 -----final.all.json 融合最终结果<br>
 
-### src：存放各自的源码<br>
+### code：存放各自的源码<br>
 ----lzp：存放user1的源码<br>
 ------run.py：执行user1源码<br>
 ----ljh：存放user2的源码<br>
