@@ -14,6 +14,6 @@ https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.7cf8
 ##### 排名: 决赛:2<br>
 http://www.datafountain.cn/#/competitions/277/intro<br>
 
-#### 3. CCF2017-AI法官（队伍数量:7000+）<br>
+#### 3. 滴滴第一届算法大赛（队伍数量:7000+）<br>
 ##### 排名: 决赛:8<br>
 https://www.saikr.com/32943<br>
