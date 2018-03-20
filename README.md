@@ -17,3 +17,7 @@ http://www.datafountain.cn/#/competitions/277/intro<br>
 #### 4. 滴滴第一届算法大赛（队伍数量:7000+）<br>
 ##### 排名: 决赛:8<br>
 https://www.saikr.com/32943<br>
+
+#### 5. 拍拍贷风控算法大赛（队伍数量:485）<br>
+##### 排名: 决赛:2 <br>
+https://www.kesci.com/apps/home/competition/56cd5f02b89b5bd026cb39c9
