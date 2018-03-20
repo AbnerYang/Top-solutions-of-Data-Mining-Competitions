@@ -25,3 +25,7 @@ https://www.kesci.com/apps/home/competition/56cd5f02b89b5bd026cb39c9
 #### 6. KDDCUP 2017 高速公路通达时间预测（队伍数量:3582）<br>
 ##### 排名: 6 <br>
 https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.4895d780Hnb458&raceId=231597
+
+#### 7. 唯品会唯品会用户购买行为预测（队伍数量:542）<br>
+##### 排名: 2 <br>
+http://www.datafountain.cn/#/competitions/260/intro
